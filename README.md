@@ -1,11 +1,35 @@
-Hi, I'm Ayomide Ariyo Emmanuel
+# Hi, I'm Ayomide Ariyo Emmanuel 👋
 
-I'm a passionate software developer with experience in [e.g., Angular, Ionic, Firebase, TypeScript].
+AI Automation Engineer | CRM Systems Architect | Workflow Automation Specialist
 
-Projects:
-- Car Website – Browse, rent, and sell cars. Built with Ionic & Firebase.
-- Oil and Gas Website – A clean and responsive website built for Arium Energy, an oil and gas company. It showcases their services, company values, and contact information, with a modern and professional design.
+I build AI-powered automation systems that help businesses eliminate repetitive work, improve customer engagement, and scale operations.
 
-Reach me: ariyoleke232@gmail.com
+## Areas of Expertise
 
-Based in Lagos, Nigeria | 🌐 Open to remote work
+- GoHighLevel CRM
+- AI Automation
+- Workflow Automation
+- API Integrations
+- REST APIs
+- JavaScript
+- n8n
+- OpenAI
+- Webhooks
+- Business Process Automation
+
+## Current Focus
+
+- AI Agents
+- CRM Engineering
+- Automation Architecture
+- Business Systems
+- Full Workflow Automation
+
+## Let's Connect
+
+LinkedIn:
+https://www.linkedin.com/in/ariyo-emmanuel/
+
+
+Email:
+ariyoleke232@gmail.com
